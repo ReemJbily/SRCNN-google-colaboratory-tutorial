@@ -4,4 +4,4 @@
 #### The code uses:
 ######     Python version 3.7.12
 ######     Numpy version 1.19.5
-#####3     Tensorflow version 2.6.0 
+######     Tensorflow version 2.6.0 
