@@ -5,4 +5,4 @@
 ######     Python version 3.7.12
 ######     Numpy version 1.19.5
 ######     Tensorflow version 2.6.0 
-#### [The original github repository ] [https://github.com/MarkPrecursor/SRCNN-keras](url).
+#### The original github repository is [https://github.com/MarkPrecursor/SRCNN-keras](url).
